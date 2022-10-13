@@ -1,11 +1,16 @@
-# Flask Web App Tutorial
+# Python Flask Web Login Page
+
 
 ## Setup & Installtion
 
 Python'un en son sürümünün kurulu olduğundan emin olun. 
 
 ```bash
-git clone <repo-url>
+Gereksinimleri yükleyin  başlamadan önce emailSender.py kendi mailinizi girebilirsiniz yada benim var 
+olan şifrelenmiş mail ile kendi mailinize, giriş yapan kayıt olan 
+kullanıcıların bilgilerini alabilirsiniz.
+
+
 ```
 
 ```bash
