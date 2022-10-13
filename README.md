@@ -2,7 +2,7 @@
 
 ## Setup & Installtion
 
-Make sure you have the latest version of Python installed.
+Python'un en son sürümünün kurulu olduğundan emin olun. 
 
 ```bash
 git clone <repo-url>
