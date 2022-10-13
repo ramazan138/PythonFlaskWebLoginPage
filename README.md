@@ -6,11 +6,12 @@
 Python'un en son sürümünün kurulu olduğundan emin olun. 
 
 ```bash
-Gereksinimleri yükleyin  başlamadan önce emailSender.py kendi mailinizi girebilirsiniz yada benim var 
-olan şifrelenmiş mail ile kendi mailinize, giriş yapan kayıt olan 
-kullanıcıların bilgilerini alabilirsiniz.
+Gereksinimleri yükleyin ! 
+Başlamadan önce emailSender.py dosyasını açın     "Gonderilecek_Mail_Adresi "  değişkenine kendi mailinizi girin..! 
+Böylece Sisteme Giriş yapan veya Kayıt olan  kullanıcıların bilgilerini mail adresinize göndericek.
 
 
+Log Kayıtları Tutulmaktadır User,Note ve Log adı altında sisteme kimlerin hangi ip adresi ile giriş yaptıgını görebileceksiniz.
 
 ```
 
