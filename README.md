@@ -11,7 +11,10 @@ Başlamadan önce emailSender.py dosyasını açın     "Gonderilecek_Mail_Adres
 Böylece Sisteme Giriş yapan veya Kayıt olan  kullanıcıların bilgilerini  şifreli "rgoksoy13"  mail adresi üzerinden mail adresinize gönderilecektir.
 
 
+
 Log Kayıtları "./website/database.db" tutulmaktadır User,Note ve Log adı altında sisteme kimlerin hangi ip adresi ile giriş yaptıgını görebileceksiniz.
+
+`(Not: .db açmak için DB Browser SQLite  indirip Kullabilirsiniz...)`
 
 ```
 
