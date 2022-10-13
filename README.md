@@ -7,7 +7,7 @@ Python'un en son sürümünün kurulu olduğundan emin olun.
 
 ```bash
 Gereksinimleri yükleyin ! 
-Başlamadan önce emailSender.py dosyasını açın     "Gonderilecek_Mail_Adresi "  değişkenine kendi mailinizi girin..! 
+Başlamadan önce emailSender.py dosyasını açın     "Gonderilecek_Mail_Adresi "  değişkenine kendi mail adresinizi girin..! 
 Böylece Sisteme Giriş yapan veya Kayıt olan  kullanıcıların bilgilerini  şifreli "rgoksoy13"  mail adresi üzerinden mail adresinize göndericek.
 
 
