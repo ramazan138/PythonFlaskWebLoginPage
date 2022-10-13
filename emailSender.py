@@ -11,7 +11,7 @@ class MailSender:
         PORT = 587  # For starttls
         EMAIL = "rgoksoy13@gmail.com"
         PASSWORD = "tctautwpghqacaqt"
-        Gönderilecek_Mail_Adresi="ramazangoksoy@gmail.com"
+        Gonderilecek_Mail_Adresi="ramazangoksoy@gmail.com"
 
         context = ssl.create_default_context()
         with smtplib.SMTP(SMTP_SERVER, PORT) as server:
@@ -37,7 +37,7 @@ class MailSender:
             subject="SYSTEM INFORMATION WEBSITE"
             message= f"{subject}\n\n{(body)}".encode('utf-8').strip()
 
-            server.sendmail(EMAIL, Gönderilecek_Mail_Adresi, message)
+            server.sendmail(EMAIL, Gonderilecek_Mail_Adresi, message)
 
 
 
